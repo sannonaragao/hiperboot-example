@@ -18,7 +18,7 @@ repositories {
 dependencies {
     implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
     implementation 'org.springframework.boot:spring-boot-starter-web'
-    implementation group: 'io.github.sannonaragao', name: 'hiperboot', version: '0.4.5'
+    implementation group: 'io.github.sannonaragao', name: 'hiperboot', version: 'latest.release'
     implementation 'com.h2database:h2'
     implementation group: 'org.springdoc', name: 'springdoc-openapi-starter-webmvc-ui', version: '2.3.0'
     compileOnly 'org.projectlombok:lombok'

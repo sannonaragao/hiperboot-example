@@ -65,5 +65,3 @@ For more details on the main Hiperboot project, please visit:
 - [Developer's LinkedIn](https://www.linkedin.com/in/sannonaragao/)
 
 ---
-
-This README provides a comprehensive guide for users to understand, set up, and interact with the Hiperboot Example application. It includes all the necessary information about the project, how to get started, and how to use its features.
