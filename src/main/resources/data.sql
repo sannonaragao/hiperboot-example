@@ -30,7 +30,7 @@ INSERT INTO book (title, author_id, price, published) VALUES ('Huckleberry Finn 
 INSERT INTO book (title, author_id, price, published) VALUES ('Steamboat Captain', 4, 3.49, '1904-12-04 20:08:12');
 INSERT INTO book (title, author_id, price, published) VALUES ('The Western Pioneer', 4, 7.4, '1909-12-05 11:45:35');
 INSERT INTO book (title, author_id, price, published) VALUES ('The River Journey', 4, 6.14, '1893-12-21 06:41:20');
-INSERT INTO book (title, author_id, price, published) VALUES ('Letters from Nevada', 4, 7.44, '1894-06-22 11:23:56');
+INSERT INTO book (title, author_id, price, published) VALUES ('Letters from Nevada', 4, null, '1894-06-22 11:23:56');
 INSERT INTO book (title, author_id, price, published) VALUES ('Anecdotes of the Frontier', 4, 7.13, '1901-11-11 15:13:17');
 
 INSERT INTO book (title, author_id, price, published) VALUES ('War and Peace: The Sequel', 5, 9.28, '1900-03-16 06:17:30');
