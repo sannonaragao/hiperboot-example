@@ -4,10 +4,6 @@
 ## Overview
 Hiperboot is a versatile library designed to simplify executing queries in Hibernate, compatible with various SQL databases. This example application demonstrates the use of Hiperboot for retrieving lists or pages of data filtered and sorted according to specified criteria using Spring Data.
 
-## Prerequisites
-- Java JDK 17 or later
-- Spring Boot 3.2
-
 ## Installation
 1. Clone the Hiperboot example repository:
    ```bash
@@ -52,9 +48,10 @@ Hiperboot is a versatile library designed to simplify executing queries in Hiber
       ```
 
 ## Support and Documentation
-For more details on the main Hiperboot project, please visit:
+For more details on the main Hiperboot project, or just to leave a star/thumbs up, please visit:
 - [Hiperboot GitHub](https://github.com/sannonaragao/hiperboot)
 - [Developer's GitHub](https://github.com/sannonaragao/)
 - [Developer's LinkedIn](https://www.linkedin.com/in/sannonaragao/)
+
 
 ---
